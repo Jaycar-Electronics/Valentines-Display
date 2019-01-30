@@ -10,11 +10,11 @@ Show someone you care this Valentines Day by creating an LED Display of affectio
 |1 | [WC6027](http://jaycar.com.au/p/WC6027) | Jumper Lead Mixed Pack 100 Pieces
 |1 | [PB8815](http://jaycar.com.au/p/PB8815) | Arduino Compatible Breadboard
 
-##### Note: While a prototyping board is not required it will make the job significantly easier, while providing mounting for the display.
+* While a prototyping board is not required it will make the job significantly easier, while providing mounting for the display.
 
 ## Connection Table
 
-| Nano | Maatrix #1 (IN) |
+| Nano | First Matrix IN |
 | --- | ---|
 | 5V | VCC
 | GND | GND
