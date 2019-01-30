@@ -1,4 +1,4 @@
-# Valentines_Display
+# Valentines Display
 Show someone you care this Valentines Day by creating an LED Display of affection.
 
 ## Bill of Materials
@@ -22,4 +22,18 @@ Show someone you care this Valentines Day by creating an LED Display of affectio
 | D3 | CS
 | D4 | CLK
 
-For Each addtional matrix (in this case a total of 4), you will need to link from the output of the first display to the input of the next display.
+For Each addtional matrix (in this case a total of 4), you will need to link from the output of the first display to the input of the next display. You can either link them using jumper wires direct to each display, or by mounting them on the prototyping boards as pictured below.
+
+![LED Matrix Display](https://github.com/Jaycar-Electronics/Valentines_Display/blob/master/LED%20Matrix%20Display.jpg)
+
+![LED Matrix Display](https://github.com/Jaycar-Electronics/Valentines_Display/blob/master/LED%20Matrix%20Display%20Board.jpg)
+
+We found by mounting the last board at the very edge of the prototyping board made it easier to fit the Nano & route the jumper wires.
+
+## Programming
+
+Download the source code, extract into a new folder, open the .ino file in the Arduino IDE and press upload.
+
+## Use
+
+Turn it on & show it to that special someone.
