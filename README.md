@@ -10,7 +10,7 @@ Show someone you care this Valentines Day by creating an LED Display of affectio
 |1 | [WC6027](http://jaycar.com.au/p/WC6027) | Jumper Lead Mixed Pack 100 Pieces
 |1 | [PB8815](http://jaycar.com.au/p/PB8815) | Arduino Compatible Breadboard
 
-* While a prototyping board is not required it will make the job significantly easier, while providing mounting for the display.
+* While a prototyping board ([PB8819](http://jaycar.com.au/p/PB8819)) is not required it will make the job significantly easier, while providing mounting for the display.
 
 ## Connection Table
 
@@ -24,9 +24,9 @@ Show someone you care this Valentines Day by creating an LED Display of affectio
 
 For Each addtional matrix (in this case a total of 4), you will need to link from the output of the first display to the input of the next display. You can either link them using jumper wires direct to each display, or by mounting them on the prototyping boards as pictured below.
 
-![LED Matrix Display](https://github.com/Jaycar-Electronics/Valentines_Display/blob/master/LED%20Matrix%20Display.jpg)
+![LED Matrix Display](images/matrixdisplay.jpg)
 
-![LED Matrix Display](https://github.com/Jaycar-Electronics/Valentines_Display/blob/master/LED%20Matrix%20Display%20Board.jpg)
+![LED Matrix Display](images/matrixboard.jpg)
 
 We found by mounting the last board at the very edge of the prototyping board made it easier to fit the Nano & route the jumper wires.
 
